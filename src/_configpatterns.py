@@ -2,7 +2,7 @@ CONFIGURATION_NAME = 'default'
 
 REGRESSION_TRACK_FILES = [
     {'name':'Mouse Cell Expression',
-    'filename': 'mm10_cellexpression.csv'},
+    'filename': 'mm10_cellexpression_neurons.csv'},
     {'name':'Mouse Simple Repeats',
     'filename': 'mm10_simplerepeats.csv'},
     {'name':'Mouse CpGIslands',
